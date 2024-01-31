@@ -11,6 +11,8 @@ namespace FashExile.Models
         public int Id { get; set; }
         public int UserId { get; set; }
         public virtual User User { get; set; }
+        public int ProductId { get; set; }
+        public virtual Product Product { get; set; }
         public int Total { get; set; }
         public DateTime? CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime? ModifiedAt { get; set; } = DateTime.UtcNow;

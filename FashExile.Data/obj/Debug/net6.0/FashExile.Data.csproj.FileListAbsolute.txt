@@ -1,0 +1,17 @@
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Data.deps.json
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Data.runtimeconfig.json
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Data.dll
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Data.pdb
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Models.dll
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\bin\Debug\net6.0\FashExile.Models.pdb
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.csproj.AssemblyReference.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.AssemblyInfoInputs.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.AssemblyInfo.cs
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.csproj.CoreCompileInputs.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.csproj.CopyComplete
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.dll
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\refint\FashExile.Data.dll
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.pdb
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\FashExile.Data.genruntimeconfig.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Data\obj\Debug\net6.0\ref\FashExile.Data.dll

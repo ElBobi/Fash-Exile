@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashExile.Data", "FashExile.Data\FashExile.Data.csproj", "{D5821D98-7366-48B1-B7E1-DFB0D3C3EEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashExile.Data", "FashExile.Data\FashExile.Data.csproj", "{D5821D98-7366-48B1-B7E1-DFB0D3C3EEAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashExile.Models", "FashExile.Models\FashExile.Models.csproj", "{B66C67EA-4F04-4E89-BB1E-6AEAB1A35002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashExile.Models", "FashExile.Models\FashExile.Models.csproj", "{B66C67EA-4F04-4E89-BB1E-6AEAB1A35002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashExile.Console", "FashExile.Console\FashExile.Console.csproj", "{861651C0-C31C-4507-A19C-35FA35ECDE50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B66C67EA-4F04-4E89-BB1E-6AEAB1A35002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B66C67EA-4F04-4E89-BB1E-6AEAB1A35002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B66C67EA-4F04-4E89-BB1E-6AEAB1A35002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861651C0-C31C-4507-A19C-35FA35ECDE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861651C0-C31C-4507-A19C-35FA35ECDE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861651C0-C31C-4507-A19C-35FA35ECDE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861651C0-C31C-4507-A19C-35FA35ECDE50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
