@@ -1,0 +1,5 @@
+C:\Users\manda\Desktop\Fash Exile\FashExile.Services\obj\Debug\net6.0\FashExile.Services.csproj.AssemblyReference.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Services\obj\Debug\net6.0\FashExile.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manda\Desktop\Fash Exile\FashExile.Services\obj\Debug\net6.0\FashExile.Services.AssemblyInfoInputs.cache
+C:\Users\manda\Desktop\Fash Exile\FashExile.Services\obj\Debug\net6.0\FashExile.Services.AssemblyInfo.cs
+C:\Users\manda\Desktop\Fash Exile\FashExile.Services\obj\Debug\net6.0\FashExile.Services.csproj.CoreCompileInputs.cache
