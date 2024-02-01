@@ -19,7 +19,7 @@ namespace FashExile.Models
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
         public decimal Price { get; set; }
-        public int DiscountId { get; set; }
+        public int? DiscountId { get; set; }
         public virtual Discount Discount { get; set; }
         public virtual ICollection<OrderProduct> OrderProducts { get; set; }
         public DateTime? CreatedAt { get; set; } = DateTime.UtcNow;

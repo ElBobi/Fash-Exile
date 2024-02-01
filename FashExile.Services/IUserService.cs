@@ -8,11 +8,12 @@ namespace FashExile.Services
 {
     public interface IUserService
     {
-        void Create(string username, string password, string FirstName, string LastName);
-        void Create(string username, string password, string FirstName, string LastName, string country, string city, string postalCode, string address);
-        void Create(string username, string password, string FirstName, string LastName, string phone);
-        void Create(string username, string password, string FirstName, string LastName, string phone, string country, string city, string postalCode, string address);
+        void Register(string username, string password, string FirstName, string LastName);
+        void Register(string username, string password, string FirstName, string LastName, string country, string city, string postalCode, string address);
+        void Register(string username, string password, string FirstName, string LastName, string phone);
+        void Register(string username, string password, string FirstName, string LastName, string phone, string country, string city, string postalCode, string address);
+        void Login(string username, string password);
+        void UpdatePassword(string username, string oldPassword, string newPassword);
         void Delete(string username);
-        void Update(string username);
     }
 }

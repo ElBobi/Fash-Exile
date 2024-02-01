@@ -9,7 +9,7 @@ namespace FashExile.Services
 {
     public interface IProductService
     {
-        void Create(string description, int quantity, string category, decimal price, string discount);
+        void Create(string description, int quantity, string category, decimal price, string? discount);
         void Delete(string productName);
         void UpdateQuantity(string productName, int quantity);
         IEnumerable<ProductViewModel> SearchByName(string productName);
