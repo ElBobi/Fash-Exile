@@ -8,5 +8,6 @@ namespace FashExile.Services
 {
     public interface IOrderService
     {
+        void Create();
     }
 }
